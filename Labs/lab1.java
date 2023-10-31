@@ -1,7 +1,6 @@
-package secondyear;
-
 import java.util.Scanner;
 
+//Basic XOX GAME
 public class lab1 {
 	int[][] board;
 	public static final int EMPTY=0;
